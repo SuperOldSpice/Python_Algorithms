@@ -1,0 +1,8 @@
+#ignores python cache
+**/__pycache__
+
+#ignores report files
+*.docx
+
+#ignores output files
+output.txt
